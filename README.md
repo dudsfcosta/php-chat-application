@@ -1,4 +1,4 @@
-💬 PHP Chat Application
+# 💬 PHP Chat Application
 
 ## 📖 Sobre
 
